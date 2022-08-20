@@ -1,0 +1,27 @@
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\bin\Debug\net6.0\appsettings.json
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\bin\Debug\net6.0\API Async streaming.exe
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\bin\Debug\net6.0\API Async streaming.deps.json
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\bin\Debug\net6.0\API Async streaming.runtimeconfig.json
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\bin\Debug\net6.0\API Async streaming.dll
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\bin\Debug\net6.0\API Async streaming.pdb
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\obj\Debug\net6.0\API Async streaming.csproj.AssemblyReference.cache
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\obj\Debug\net6.0\API Async streaming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\obj\Debug\net6.0\API Async streaming.AssemblyInfoInputs.cache
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\obj\Debug\net6.0\API Async streaming.AssemblyInfo.cs
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\obj\Debug\net6.0\API Async streaming.csproj.CoreCompileInputs.cache
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\obj\Debug\net6.0\API Async streaming.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\obj\Debug\net6.0\API Async streaming.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\obj\Debug\net6.0\scopedcss\bundle\API Async streaming.styles.css
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\obj\Debug\net6.0\API Async streaming.csproj.CopyComplete
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\obj\Debug\net6.0\API Async streaming.dll
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\obj\Debug\net6.0\refint\API Async streaming.dll
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\obj\Debug\net6.0\API Async streaming.pdb
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\obj\Debug\net6.0\API Async streaming.genruntimeconfig.cache
+C:\Users\Me\Documents\Projects\API Async streaming\API Async streaming\obj\Debug\net6.0\ref\API Async streaming.dll
